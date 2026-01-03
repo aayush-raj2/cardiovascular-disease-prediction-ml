@@ -31,6 +31,5 @@ pip install -r requirements.txt
 python3 cardio_ml.py
 ```
 
-## Disclaimer
-
+## Disclaimer 
 This project is for educational purposes only and does not replace professional medical diagnosis.
